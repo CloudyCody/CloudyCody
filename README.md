@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CloudyCody</h1>
 <h3 align="center">a little bit code, a little bit cloud...</h3>
+<p><img align="center" src="Hello.png" alt="cloudycody" /></p>
 <p><img align="left" src="AWS (2).png" alt="cloudycody" /></p>
 <p><img align="left" src="DEVOPS.gif" alt="cloudycody" /></p>
 
